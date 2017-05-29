@@ -248,6 +248,7 @@
 	color: rgba(202, 82, 83, 1.0);
 }
 .screen-3_lan-item_4{
+	font-size: 12px;
 	border-color: rgba(41, 83, 95, 1.0);
 	color: rgba(37, 185, 221, 1.0);
 }
@@ -256,7 +257,8 @@
 	color: rgba(135, 186, 85, 1.0);
 }
 .screen-3_lan-item_6{
-	border-color: rgba(27, 9, 0, 1.0);
+	font-size: 12px;
+	border-color: rgba(242, 174, 80, 0.6);
 	color: rgba(255, 126, 23, 1.0);
 }
 .screen-4{
